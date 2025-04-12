@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Thank you for contacting Sparkle Express Car Wash! We’ll get back to you soon."
+    />
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-E7CVDKBNL5"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-E7CVDKBNL5");
+      gtag("event", "form_submission_success", {
+        event_category: "Engagement",
+        event_label: "Contact Form Success",
+        value: 1,
+      });
+    </script>
+    <title>Thank You | Sparkle Express Car Wash, East Legon</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: url("images/background.jpg") no-repeat center center/cover;
+        font-family: Arial, sans-serif;
+        color: #ffffff;
+        text-align: center;
+      }
+      .container {
+        background: rgba(0, 0, 0, 0.7);
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+      }
+      h1 {
+        color: #00aeef;
+        font-size: 2.5em;
+      }
+      p {
+        font-size: 1.2em;
+        margin: 10px 0;
+      }
+      .btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background: #ffb400;
+        color: #333;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 5px;
+      }
+      .btn:hover {
+        background: #ffa000;
+      }
+    </style>
+    <script>
+      setTimeout(() => {
+        window.location.href = "index.html";
+      }, 10000);
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Thank You! Your Car is in Good Hands!</h1>
+      <p>Your form was submitted successfully.</p>
+      <p>We'll get back to you soon. Redirecting you to our homepage...</p>
+      <a href="index.html" class="btn">Return to Home</a>
+    </div>
+    <form
+      action="https://script.google.com/macros/s/AKfycbyYJVhqq6gzSWWNdyVaoynQ7r_jT8sdJsTfhd5f8aCxkAWlbTIPAzY2nJEtO6Y0_0aCvg/exec"
+      method="POST"
+      enctype="application/x-www-form-urlencoded"
+    ></form>
+  </body>
+</html>
