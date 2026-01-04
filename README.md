@@ -1,4 +1,4 @@
-# 🚗 SPARKLE CAR WASH – Accra, Ghana
+# SPARKLE CAR WASH – Accra, Ghana
 
 **24/7 Premium Car Wash Booking System**  
 *Instant WhatsApp bookings | Mobile Money payments | Google Sheets management | Service Selection*
@@ -28,13 +28,13 @@
 
 ## 🛠️ Technical Stack
 
-### ⚛️ Frontend (Customer Interface)
+### Frontend (Customer Interface)
 
 - **Tech:** HTML5, CSS3, JavaScript  
 - **Performance:** Loads in under 1s on MTN 4G (verified via Google PageSpeed Insights).
 - **Local Testing Note:** To test locally with Live Server, update the Google Apps Script to include `Access-Control-Allow-Origin: http://127.0.0.1:5500` in the response headers. Switch to `https://govwebdesign.github.io` after deployment.
 
-### 🔧 Backend (Booking Management)
+### Backend (Booking Management)
 
 - **Powered by:** Google Apps Script with Google Sheets as a lightweight DB.
 
@@ -84,7 +84,7 @@ To deploy:
 
 ---
 
-## 📍 Contact & Location (Ghana Sample)
+## Contact & Location (Ghana Sample)
 
 - **Location:** Near East Legon Shell Station, Accra, Ghana  
 - **Hours:** Open 24/7, all year round  
