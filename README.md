@@ -3,8 +3,8 @@
 **24/7 Premium Car Wash Booking System**  
 *Instant WhatsApp bookings | Mobile Money payments | Google Sheets management | Service Selection*
 
-➡️ **Live Demo**: [https://govwebdesign.github.io/sparkle-car-wash](https://govwebdesign.github.io/sparkle-car-wash)  
-👉 [**Book Now**](https://govwebdesign.github.io/sparkle-car-wash?utm_source=github&utm_medium=readme&utm_campaign=docs_booking)  
+ **Live Demo**: [https://govwebdesign.github.io/sparkle-car-wash](https://govwebdesign.github.io/sparkle-car-wash)  
+ [**Book Now**](https://govwebdesign.github.io/sparkle-car-wash?utm_source=github&utm_medium=readme&utm_campaign=docs_booking)  
 📞 **Support (Ghana):** [+233 50 877 2690](https://wa.me/233508772690)
 
 ![Homepage Preview](/images/exterior-wash.jpg)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 | Feature                 | Benefit                                                                  |
 |-------------------------|--------------------------------------------------------------------------|
